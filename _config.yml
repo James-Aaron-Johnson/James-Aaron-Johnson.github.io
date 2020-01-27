@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Games Designer and Programmer. Hobbyist artist and musician. Lover of all things interactive.
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-repository: YoussefRaafatNasry/portfolYOU
+repository: James-Aaron-Johnson/James-Aaron-Johnson.github.io
 
 
 # Build settings
