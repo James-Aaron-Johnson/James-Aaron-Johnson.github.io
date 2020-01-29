@@ -1,7 +1,7 @@
 ---
 name: Ghost Driver
 tools: [Unity, Games Design, Art, Programming, Producer, Team Lead]
-image: https://chi-time.github.io/assets/images/ghost-driver-project.jpg
+image: https://img.itch.zone/aW1nLzI5MjA2MjIucG5n/315x250%23c/gASco5.png
 description: A fully developed small demo of a game!
 ---
 
@@ -18,9 +18,24 @@ Check out the game below:
 
 A link to the repository of the work I did is here:
 
-<div class="github-widget" chi-time="surbhioberoi"></div>
-<script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
-
 <p class="text-center">
 {% include button.html link="https://github.com/Chi-Time/Ghost_Driver_CGP603" text="Ghost Driver Repo" %}
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="github-widget" data-username="chi-time"></div>
+<script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
+
+

@@ -1,7 +1,7 @@
 ---
 name: Character Design
 tools: [3DS Max, Maya, Substance Suite, Krita, Photoshop]
-image:
+image: https://cdna.artstation.com/p/assets/images/images/017/691/942/large/james-johnson-3-closefront-b.jpg?1556982835
 description: A series of characters and animation reels.
 ---
 
