@@ -1,7 +1,7 @@
 ---
 name: Ghost Driver
 tools: [Unity, Games Design, Art, Programming, Producer, Team Lead]
-image: https://chi-time.github.io/assets/images/ghost-driver-project.png
+image: https://chi-time.github.io/assets/images/ghost-driver-project.jpg
 description: A fully developed small demo of a game!
 ---
 

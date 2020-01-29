@@ -1,7 +1,7 @@
 ---
 name: Character Design
 tools: [3DS Max, Maya, Substance Suite, Krita, Photoshop]
-image: https://img.itch.zone/aW1nLzIwMzk4NjgucG5n/347x500/ysjrLr.png
+image:
 description: A series of characters and animation reels.
 ---
 
