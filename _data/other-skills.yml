@@ -1,11 +1,19 @@
+- name: Project Management
+  percentage: 
+  color:
+
 - name: 3D Modelling
-  percentage: 
-  color: success
+  percentage:
+  color:
 
-- name: Concept Art
-  percentage: 
-  color: success
+- name: 3D Animation
+  percentage:
+  color:
 
-- name: Animation
+- name: C#
   percentage: 
-  color: success
+  color: 
+
+- name: C++
+  percentage: 
+  color:

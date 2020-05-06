@@ -23,8 +23,22 @@ If you're wanting to get in contact with me, then don't hesitate. Feel free to g
 - Email: [james_aaron_johnson@outlook.com](mailto:james_aaron_johnson@outlook.com)
 - Mobile: 07907477840
 
+### Social Links
+---
+If you want to check out any of my other work or contact me elsewhere, here's the various places I'm at:
+
 <div class="row">
-{% include skills.html title="Programming Skills" source=site.data.programming-skills %}
+<a href = "https://www.tutorialspoint.com" target = "_self"> 
+         <img src = "https://image.flaticon.com/icons/svg/38/38669.svg" alt = "Tutorials Point" border = "0" height="50" width="50"/> 
+</a>
+
+<a href = "https://www.tutorialspoint.com" target = "_self"> 
+         <img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/27_Artstation_logo_logos-512.png" alt = "Tutorials Point" border = "0" height="50" width="50"/> 
+</a>
+</div>
+
+<div class="row">
+{% include skills.html title="Design Skills" source=site.data.design-skills %}
 {% include skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 

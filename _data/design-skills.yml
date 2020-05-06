@@ -1,0 +1,15 @@
+- name: Level Design
+  percentage: 
+  color: success
+
+- name: Gameplay Design
+  percentage: 
+  color: success
+
+- name: Narrative Design
+  percentage:
+  color: success
+
+- name: Gameplay Testing
+  percentage:
+  color: success
