@@ -1,24 +1,23 @@
 ---
-title: Final Project - Computer Games Design
-tags: [Games Design, Personal]
+title: The Plan
+tags: [Games Design, Personal, Final Project, SHMUP]
 style: border
 color: #2A2A2A
 description: 
 ---
 
-## Introduction
+## So It Begins
+---
 
 For the final project I have to decide upon a project to undertake, prepare for and develop. During this phase we've had about a month and a bit to come up with a solid idea and proposal for what that is. I set out to start the first week by deciding on what my idea would be and end it on the creation of a milestone. By the end of week two I'd aimed to create my project proposal for review by my course leader to see if he thinks it's a firm idea and I have understood the edge cases.
 
-## Previous Research Relaxation in Games
-
 Before planning ideas of what to do for my final project I first revisted my previous semester's work in which I researched a design topic to use as a basis for my project. My area of interest that I studied was that of relaxation and how video games can help aid and promote de-stressing and relaxation amongst users of them. In this research, I discovered a lot about what various effects games have on their users and the ideal types of genre's that help to promote this effects in users. The results were surprising and whilst there are a wide variety of games that can have an effect I noted and boiled my ideas into two key areas that would be of interest to develop and provide a solid and workable base to develop an idea around and I came to two main ideas.
 
-### Fishing Game Idea
+#### Idea #1: The Fishing Game
 
 On the one side, I had an idea for a relaxing fisihing game in which the player would be responsible for looking after their house by cleaning it up over time whilst also fishing in various locales whereby they could then take these fish home, name and care for them or sell them to make profit. The aim of this game would be a core loop based around fishing and collecting of animals to care for in the hopes of helping users relax.
 
-### Shoot Em Up Game Idea
+#### Idea #2: The SHMUP
 
 On the other side, the idea was to create an action shoot em up with some rythmic gameplay elements such as timing based firing patterns and environmental reactions to music. The aim of this would be to feed into the concept of de-stressing and relaxing through the use of music and focusing on a simple but engaged task such as that of shooting enemies, collecting items and dodging bullets. The core game loop would consist of a simple and easy to play grind that would allow players to progress through the game at the pace they choose and keep the gameplay engaging but consistent.
 
@@ -26,7 +25,8 @@ The idea for creating relaxtion through action came to be in part because of Nic
 
 For these reasons, the shmup idea won as my preferred ambition for the project as it allows me to look at areas such as level design, game balance and emotional experience as well as a narrative. It seems an interesting piece to both challenge myself and engage in.
 
-## Selected Project Type: Vertical Slice
+## The Project
+---
 
 After selecting the initial idea I tried to think of a way to scale it before I began to plan it. Seeing as I had 2 and a half months realistically with which to develop this game I didn't want overwhelm myself with an enormous amount of work so as to allow myself to fully develop and finish something. Planning for this went down a couple of routes but I ultimately decided upon was creating a vertical slice prototype of the game.
 
@@ -43,6 +43,7 @@ In my case, the cons aside a vertical slice still sounds like a better move for 
 As I am a single entity and my focus of the game is to showcase design work and the core idea I can feel safe to iterate my ideas in the safety of my limitations for the games length and aims. This will allow me to spend time working in more important aspects.
 
 ## Project Goals and Aims
+---
 
 With my project now decided, I now needed to think about my goals and aims for it. If I'm to try and plan out my milestones and key development stages I need to first better understand what my project aimes to be and what I want to have achieved from it.
 
@@ -67,15 +68,23 @@ An aim for me is something that I hope to do during the course of the project. E
 - I aim to understand and undertake industry workflows for various areas of Games Design in the project.
 
 ## Milestones
+---
 
 With my project now settled upon and my goals and aims summed up I then set about working on a milestone chart to help predicate and steer my general workflow and development of the project over the coming months. This isn't something I've done much of before but having read many articles such as [Alarm Clock's Time Boxing Post](https://blog.onlineclock.net/time-boxing/) I decided trying to effectively provide some basic chart and measure of my work would greatly help in keeping me on track and on time for delivering what I want.
 
 With that in mind I looked at some gantt chart examples and set about making a gantt chart to describe my various stages of development of the course of the project and what I hoped to have done by each stage. A finished view of that can be seen below:
 
-<img src="https://chi-time.github.io/assets/images/major-project/gantt-chart.jpg"
+<img src="https://i.vgy.me/2KV8ft.png"
      alt="Gantt Chart Example"
      style="float: center; margin-right: 10px;" />
 
-## Conclusion
+This chart details my work plans for each week as well as what testing sessions I'll be running on the side and when.
 
-So. It's been a long two weeks and there's been much work done, although with still far more to follow. It's a daunting task ahead especially having now completed my milestones and risk analysis and fully seeing the course of development ahead of me. But I'm hoping that by the next post I'll have settled into it.
+## Conclusion
+---
+
+*Whew* This was a long post, and It's been a long two weeks. Yet there's still far more to follow. It's a daunting task ahead especially having now completed my milestones and risk analysis and fully seeing the course of development ahead of me. But I'm hoping that by the next post I'll have settled into it and can keep trucking on.
+
+Till next time.
+
+- JJ

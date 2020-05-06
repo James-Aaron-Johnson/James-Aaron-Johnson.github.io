@@ -1,6 +1,6 @@
 ---
-title: Final Project - Computer Games Design
-tags: [Games Design, Personal]
+title: The Final Project - Computer Games Design
+tags: [Games Design, Personal, Final Project, SHMUP]
 style: fill
 color: #2A2A2A
 description: 
