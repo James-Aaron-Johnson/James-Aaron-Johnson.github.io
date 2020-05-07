@@ -1,7 +1,7 @@
 ---
 title: The Final Countdown
 tags: [Games Design, Personal, Final Project, SHMUP]
-style: fill
+style: border
 color: #2A2A2A
 description: 
 ---
@@ -14,5 +14,3 @@ For university, I have been given the task of deciding and planning a final majo
 During the process of this project, I will be detailing my research and decisions for it in this blog on a semi-scheduled basis. The blog will serve as a productiong log of sorts to help detail and showcase my development, the decisions taken during the development as well as other details. I'm hoping to keep it interesting and have some fun stuff to show off while I'm at it.
 
 So keep an eye out, because there'll be a lot more interesting stuff to follow.
-
-- JJ

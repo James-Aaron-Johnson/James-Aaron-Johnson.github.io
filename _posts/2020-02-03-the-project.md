@@ -13,6 +13,9 @@ After selecting the initial idea I tried to think of a way to scale it before I 
 
 I've chosen a vertical slice as it seems the best route to take for a University project and especially for a game developed by 1 person. A vertical slice is a piece of work which showcases a game as a piece or fragment of an idea to convince studio heads or publishers to fund or take interest in the project. It's like a taste test before selecting the meal.
 
+### Vertical Slice
+---
+
 A vertical slice is used with various meanings in multiple areas and is oft associated with agile workflows or corporate structures in which they aim to break a project or piece of work into individual slices or pieces of work to help decompse and see how it all might work as a wider whole before digging into the whole piece. [Adobe's blog on vertical slicing in development.](https://blogs.adobe.com/agile/2013/09/27/splitting-stories-into-small-vertical-slices/)
 
 In the context of games, vertical slices are a proof of concept which showcases a bunch of aspects of the game in short form. This helps everyone gain a better idea of the work involved for a full production as well as helps to display the core ideas and experience to others.
