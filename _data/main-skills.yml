@@ -1,0 +1,39 @@
+- name: Level Design
+  percentage:
+  color: success
+
+- name: Gameplay Design
+  percentage:
+  color: success
+
+- name: UI Design
+  percentage:
+  color: success
+
+- name: Narrative Design
+  percentage:
+  color: success
+
+- name: Gameplay Testing
+  percentage:
+  color: success
+
+- name: C#
+  percentage:
+  color: success
+
+- name: C++
+  percentage:
+  color: success
+
+- name: Project Management
+  percentage:
+  color: success
+
+- name: 3D Modelling
+  percentage:
+  color:
+
+- name: 3D Animation
+  percentage:
+  color:

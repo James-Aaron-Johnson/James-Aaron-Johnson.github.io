@@ -1,5 +1,5 @@
 ---
-title: The Final Project - Computer Games Design
+title: The Final Countdown
 tags: [Games Design, Personal, Final Project, SHMUP]
 style: fill
 color: #2A2A2A

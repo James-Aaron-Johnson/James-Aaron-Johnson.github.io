@@ -6,6 +6,4 @@ color: #2A2A2A
 description: 
 ---
 
-
-
 Studying Games Design Pre Production and GDD creation/management such as wiki's, kanban board setups etc.

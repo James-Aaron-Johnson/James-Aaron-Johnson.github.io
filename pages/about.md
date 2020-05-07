@@ -27,26 +27,27 @@ If you're wanting to get in contact with me, then don't hesitate. Feel free to g
 ---
 If you want to check out any of my other work or contact me elsewhere, here's the various places I'm at:
 
-
-<a href = "https://www.tutorialspoint.com" target = "_self"> 
+<div class="row">
+<a href = "https://www.linkedin.com/in/james-aaron-johnson/" target = "_self"> 
          <img src = "https://image.flaticon.com/icons/svg/38/38669.svg" alt = "Tutorials Point" height="50" width="50" style="float: center; margin-right: 10px;"/> 
 </a>
 
-<a href = "https://www.tutorialspoint.com" target = "_self"> 
+<a href = "https://www.artstation.com/james-aaron-johnson" target = "_self"> 
          <img src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/27_Artstation_logo_logos-512.png" alt = "Tutorials Point" height="50" width="50" style="float: center; margin-right: 10px;"/> 
 </a>
 
-<a href = "https://www.tutorialspoint.com" target = "_self"> 
+<a href = "https://github.com/Chi-Time" target = "_self"> 
          <img src = "https://image.flaticon.com/icons/svg/25/25231.svg" alt = "Tutorials Point" height="50" width="50" style="float: center; margin-right: 10px;"/> 
 </a>
 
-<a href = "https://www.tutorialspoint.com" target = "_self"> 
+<a href = "https://sketchfab.com/Haunted-Dreamer?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target = "_self"> 
          <img src = "https://static.sketchfab.com/img/press/logos/logo-black.png" alt = "Tutorials Point" height="50" width="50" style="float: center; margin-right: 10px;"/> 
 </a>
+</div>
 
 <div class="row">
-{% include skills.html title="Design Skills" source=site.data.design-skills %}
-{% include skills.html title="Other Skills" source=site.data.other-skills %}
+{% include skills.html title="Main Skills" source=site.data.main-skills %}
+{% include skills.html title="Software Skills" source=site.data.software-skills %}
 </div>
 
 <div class="row">
