@@ -12,25 +12,3 @@
     margin-right: auto;
     width: 75%;
 }
-
-/*Styling for all video content embeds on the site.*/
-.video-display {
-    text-align: center;
-    /*
-	position: relative;
-    padding-bottom: 56.25%;	
-    padding-top: 25px;
-    height: 0;
-    */
-}
-
-.video-display iframe {
-    box-shadow: 0 0px 20px #000000a3
-    /*
-  	position: absolute;
-	top:        0;
-	left: 0;
-	width: 100%;
-    height: 100%;
-    */
-}
