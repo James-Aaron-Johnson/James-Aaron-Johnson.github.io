@@ -16,7 +16,7 @@ An in-depth breakdown of my concept process can be read under the Corpse Harvest
 ## Corpse Harvester - Giant Mech
 ---
 
-<img src="https://cdnb.artstation.com/p/assets/covers/images/017/699/507/smaller_square/james-johnson-giant-mech-thumbnail.jpg" class="center" alt="Paris">
+<img class="center" src="https://cdnb.artstation.com/p/assets/covers/images/017/699/507/smaller_square/james-johnson-giant-mech-thumbnail.jpg">
 
 The corpse harvester is a giant mech I created for the first part of the unit. The task was:
 
@@ -62,9 +62,8 @@ The final creation of the character can bee seen in live preview below.
 
 ## Laury - Dino Mech
 ---
-<a> 
-         <img src="https://cdnb.artstation.com/p/assets/covers/images/017/714/515/smaller_square/james-johnson-screenshot001.jpg" alt="Paris" class="center">
-</a>
+
+<img  class="center" src="https://cdnb.artstation.com/p/assets/covers/images/017/714/515/smaller_square/james-johnson-screenshot001.jpg">
 
 Laury is a dino mech I created for the final part of the unit. The task was:
 
@@ -142,4 +141,6 @@ A final model and walk animation can be seen below in a live preview.
 
 As well as the creation of the character I had to animate her and other things to form a 1 minute animation reel. For this reel I studied good practices for 3D animation and tried to follow sheets and workflows for walk cycles and the 12 principles. In some of the animations such as the ball and her walk cycles I tried to make strong use of the principles. In others I feel they're a bit rigid as I didn't make a strong enough use of them. Overall I feel it's a solid attempt for my first time doing animation of any kind. The final result can be seen below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Q393h2GZwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-display">
+<iframe  class="center"  width="560" height="315" src="https://www.youtube.com/embed/6Q393h2GZwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
