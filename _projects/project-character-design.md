@@ -15,9 +15,8 @@ An in-depth breakdown of my concept process can be read under the Corpse Harvest
 
 ## Corpse Harvester - Giant Mech
 ---
-<a> 
-         <img src="https://cdnb.artstation.com/p/assets/covers/images/017/699/507/smaller_square/james-johnson-giant-mech-thumbnail.jpg" alt="Paris" class="center">
-</a>
+
+<img src="https://cdnb.artstation.com/p/assets/covers/images/017/699/507/smaller_square/james-johnson-giant-mech-thumbnail.jpg" class="center" alt="Paris">
 
 The corpse harvester is a giant mech I created for the first part of the unit. The task was:
 
