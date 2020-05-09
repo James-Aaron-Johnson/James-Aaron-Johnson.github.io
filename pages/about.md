@@ -28,6 +28,7 @@ If you're wanting to get in contact with me, then don't hesitate. Feel free to g
 If you want to check out any of my other work or contact me elsewhere, here's the various places I'm at:
 
 <div class="social-links">
+
 <a href = "https://www.linkedin.com/in/james-aaron-johnson/" target = "_self"> 
          <img src = "https://image.flaticon.com/icons/svg/38/38669.svg" alt = "Tutorials Point" height="50" width="50" style="float: center; margin-right: 10px;"/> 
 </a>
@@ -43,6 +44,7 @@ If you want to check out any of my other work or contact me elsewhere, here's th
 <a href = "https://sketchfab.com/Haunted-Dreamer?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target = "_self"> 
          <img src = "https://static.sketchfab.com/img/press/logos/logo-black.png" alt = "Tutorials Point" height="50" width="50" style="float: center; margin-right: 10px;"/> 
 </a>
+
 </div>
 
 <div class="row">
