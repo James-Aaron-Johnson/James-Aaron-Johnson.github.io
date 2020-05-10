@@ -1,13 +1,10 @@
 ---
 title: The Final Countdown
 tags: [Games Design, Personal, Final Project, SHMUP]
-style: border
-color: #2A2A2A
+style: fill
+color: danger
 description: 
 ---
-
-The Final Countdown
-=============
 
 For university, I have been given the task of deciding and planning a final major games design project. The project can center on whatever we want as long as it is games design related and allows us to research and make use of our design abilities to showcase them in a piece of work.
 

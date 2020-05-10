@@ -20,20 +20,24 @@
 
 - name: C#
   percentage:
-  color: success
+  color: accent
 
 - name: C++
+  percentage: 
+  color: accent
+
+- name: Markdown/HTML
   percentage:
-  color: success
+  color: accent
 
 - name: Project Management
-  percentage:
-  color: success
+  percentage: 
+  color: accent
 
 - name: 3D Modelling
-  percentage:
-  color:
+  percentage: 
+  color: accent
 
 - name: 3D Animation
-  percentage:
-  color:
+  percentage: 
+  color: accent

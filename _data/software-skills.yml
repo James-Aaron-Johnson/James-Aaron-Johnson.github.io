@@ -1,51 +1,47 @@
-- name: Markdown/HTML
-  percentage:
-  color:
-
 - name: UE4
   percentage:
-  color:
+  color: danger
 
 - name: Unity
   percentage:
-  color:
+  color: danger
 
 - name: Godot
   percentage:
-  color:
+  color: danger
 
 - name: RPG Maker VX/MV
   percentage:
-  color:
+  color: danger
 
 - name: 3DS Max
   percentage:
-  color:
+  color: danger
 
 - name: Maya
   percentage:
-  color:
+  color: danger
 
 - name: Ableton Live
   percentage:
-  color:
+  color: danger
 
 - name: Cubase
   percentage:
-  color:
+  color: danger
 
 - name: Substance Painter
   percentage:
-  color:
+  color: danger
 
 - name: Substance Designer
   percentage:
-  color:
+  color: danger
 
 - name: Word
   percentage:
-  color:
+  color: danger
 
 - name: Excel
   percentage:
-  color:
+  color: danger

@@ -111,13 +111,14 @@ The character sheet of this one a lot like the previous one. I like the layout I
 ## Vivi - Animated Character
 ---
 
-![](https://cdna.artstation.com/p/assets/images/images/017/691/942/large/james-johnson-3-closefront-b.jpg?1556982835)
+<img class="image-embed" src="https://cdna.artstation.com/p/assets/images/images/017/691/942/large/james-johnson-3-closefront-b.jpg?1556982835">
 
 For the advanced part of the unit we had to create, rig and animate a character. This character didn't have any specific restrictions beyond a bone count of 128 and a loose poly limit of 30k polys.
 
 For this character I follow my previous practices and created a character design whcih I proceeded to draw in a wireframe view to make modelling easier. Upon the creation of the character design I placed it into a character sheet with a rough texture style applied to her which can be seen below.
 
-![](https://cdna.artstation.com/p/assets/images/images/017/692/054/large/james-johnson-robo-girl-stylesheet.jpg?1556983301)
+<a href = "https://cdna.artstation.com/p/assets/images/images/017/692/054/large/james-johnson-robo-girl-stylesheet.jpg?1556983301" target= "_blank"> 
+         <img class="image-embed" src= "https://cdna.artstation.com/p/assets/images/images/017/692/054/large/james-johnson-robo-girl-stylesheet.jpg?1556983301"/> 
 
 I hadn’t attempted or made any humanoid characters before this point and so I spent a great deal of time trying to understand best topology practices for anatomy and form. 
 

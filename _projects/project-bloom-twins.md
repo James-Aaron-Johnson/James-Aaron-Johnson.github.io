@@ -12,8 +12,9 @@ Bloom Twins is a small RPGMaker game demo made over the course of several weeks 
 
 For the project we decided upon making a small slice of a possible game which would cover an intro and a questing system. The public repo of mine and my teams contribution can be found here: [RPGMaker Game Repo](https://github.com/Chi-Time/DAC515-RPGMaker-Game/tree/dev)
 
+<div class="itch-embeds">
 <iframe frameborder="0" src="https://itch.io/embed/410289?bg_color=ffffff&amp;fg_color=222222&amp;link_color=323331&amp;border_color=585858" width="552" height="167"></iframe>
-
+</div>
 ---
 
 My role in this project was split amongst many areas as I found myself helping various people out with their tasks across various areas but my main role was that of being the implementation team lead as well as Scrum Master for the Implementation team. During my time on these duties I developed as part of my role several pieces of admin documentation and helped organise the team's design document and implement several back-end systems such as UI's, Loot systems, Questing systems etc. 

@@ -1,13 +1,40 @@
 .project.card {
     border-radius: $rounded-borders;
-    text-decoration: none!important;
     margin: 10px auto;
-
+    text-decoration: none!important;
+    background-color: $secondary-dark;
+    border-color: rgba($color: #000000, $alpha: .2);
+    box-shadow: 0px 0px 5px 0px #00000042;
+    //box-shadow: 0px 6px 15px 0px #fd8fff36;
+    
     .card-img-top {
         border-radius: $rounded-borders $rounded-borders 0 0;
     }
+    
+    .card-title {
+        color: $dark-text-em;
+    }
+
+    .card-body {
+        color: $dark-text-md;
+    }
+
+    .badge {
+        font-weight: 500;
+        color: white;
+        //background-color: rgba($color: $dark-accent, $alpha: .75);
+        background-color: rgba($color: $info, $alpha: .75);
+    }
 
     &:hover:not(.article) {
-        box-shadow: -2px 8px 40px -12px rgba(0, 0, 0, .24);
+        background-color: #303138;
+        //box-shadow: 0px 6px 3px 0px #282930fb;
+        //border-color: rgba($color: #1f2025fb, $alpha: 1);
+
+        box-shadow: 0px 6px 3px 0px $secondary-dark;
+        border-color: rgba($color: #1f2025fb, $alpha: 1);
+
+        //border-color: rgba($color: $primary, $alpha: .35);
+        //box-shadow: -2px 8px 40px -12px rgba(67, 44, 77, 0.3);
     }
 }

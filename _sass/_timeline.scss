@@ -16,7 +16,8 @@
     }
     
 	.timeline-item {
-        position: relative;
+		position: relative;
+		text-align: center;
         
 		&:after {
             // Circle
@@ -35,7 +36,7 @@
 		.content {
 			margin: 40px; 
 			padding-bottom: 20px;
-            border-bottom: 1px dashed $dark;
+            border-bottom: 1px dashed $warning;
 
             .date {
                 margin-top: -5px;

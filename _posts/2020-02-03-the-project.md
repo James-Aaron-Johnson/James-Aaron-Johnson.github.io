@@ -6,9 +6,6 @@ color: #2A2A2A
 description: 
 ---
 
-## The Project
----
-
 After selecting the initial idea I tried to think of a way to scale it before I began to plan it. Seeing as I had 2 and a half months realistically with which to develop this game I didn't want overwhelm myself with an enormous amount of work so as to allow myself to fully develop and finish something. Planning for this went down a couple of routes but I ultimately decided upon was creating a vertical slice prototype of the game.
 
 I've chosen a vertical slice as it seems the best route to take for a University project and especially for a game developed by 1 person. A vertical slice is a piece of work which showcases a game as a piece or fragment of an idea to convince studio heads or publishers to fund or take interest in the project. It's like a taste test before selecting the meal.
