@@ -6,7 +6,7 @@ color: #2A2A2A
 description: 
 ---
 
-With my project now decided, I wanted to think about my goals and aims for it. If I'm to try and plan out my milestones and key development stages I need to first better understand what my project aimes to be and what I want to have achieved from it.
+With my project now decided, I wanted to think about my goals and aims for it. If I'm to try and plan out my milestones and key development stages I need to first better understand what my project aims to be and what I want to have achieved from it.
 
 With that in mind. I drafted up the following series of goals and aims for this project.
 
