@@ -21,9 +21,9 @@ With regards to my damage issue. As stated by Adams E, 2000 https://books.google
 
 Here's an example of my new telegraph after I implemented it:
 
-<img class="center" src="http://orig12.deviantart.net/2c4e/f/2014/094/4/f/reremake_by_aloo81-d7d2zxq.gif">
+<img class="center" src="/assets/images/major-project/telegraph-example.gif">
 
-
+Hopefully now it's a lot more clear is or isn't hittable. I plan to improve on this effect further at a later date when more pressing things have been completed. Till next time!
 
 ---
 
