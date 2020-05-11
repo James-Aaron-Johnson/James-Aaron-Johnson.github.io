@@ -47,7 +47,7 @@ This chart details my work plans for each week as well as what testing sessions 
 It's a daunting task ahead especially having now completed my milestones and risk analysis and fully seeing the course of development ahead of me. But I'm hoping that by the next post I'll have settled into it and can keep trucking on.
 
 <details>
-     <summary> Bibliography </summary> <br>
+     <summary> Click to see <b>Bibliography</b> </summary> <br>
 
      <ul>
           <li>

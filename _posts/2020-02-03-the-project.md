@@ -28,7 +28,7 @@ So to sum up! I've finally come up with my plan. I'm going to be creating a SHMU
 Till next time.
 
 <details>
-     <summary> Bibliography </summary> <br>
+     <summary> Click to see <b>Bibliography</b> </summary> <br>
 
      <ul>
           <li>

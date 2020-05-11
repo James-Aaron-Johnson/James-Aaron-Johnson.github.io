@@ -83,6 +83,12 @@ a:visited {
     text-align: center;
 }
 
+.footnote {
+    text-align: center;
+    line-height: 1;
+    padding-bottom: 5px;
+}
+
 .button {
     text-align: center;
     margin-left: auto;
@@ -114,6 +120,20 @@ a:visited {
     width: 50%;
     border-radius: 5%;
 }
+
+.center-s {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+// .center-s:hover {
+//     display: block;
+//     margin-left: auto;
+//     margin-right: auto;
+//     width: 250%;
+// }
 
 .image-embed {
     display: block;
