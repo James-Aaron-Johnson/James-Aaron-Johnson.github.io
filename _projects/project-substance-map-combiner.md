@@ -5,7 +5,7 @@ image: https://chi-time.github.io/assets/images/Substance-Map-Combiner-Project.j
 description: A small application made to combine multiple substance exports into a single texture map.
 ---
 
-Substance Map Combiner
+<u>Substance Map Combiner</u>
 =======================
 
 ![](https://chi-time.github.io/assets/images/Substance-Map-Combiner-Overview.gif)
@@ -21,4 +21,7 @@ The application works by combining the various output texture sets from Substanc
 After finishing Substance Painter exports these with transparency as their various texture set parts and it can be cumbersome to overlay them in photoshop. The application simply requires the source folder of the texture sets and where to place them when combined and it will it overlay them all into one texture map of their relevant channels: _base_color, metallic, roughness etc._
 The application also gives the ability to decide what image type to export them as, what background color to give each map to fill the transparent sections and also what order to overlay them in if some things have a higher bleed/dilation than others.
 
-_For more information on the application head to the repo: [Substance Map Combiner](https://github.com/Chi-Time/Substance_Map_Combiner/tree/dev)_
+For more information on the application head to the repo
+<p class="text-center">
+<a href="https://github.com/Chi-Time/Substance_Map_Combiner/tree/dev" class="button" target="_blank">Substance Map Combiner Repo</a>
+</p>

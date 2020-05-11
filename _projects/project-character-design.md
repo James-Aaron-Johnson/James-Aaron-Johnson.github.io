@@ -5,7 +5,7 @@ image: https://cdna.artstation.com/p/assets/images/images/017/691/942/large/jame
 description: A series of characters and animation reels.
 ---
 
-Character Designs
+<u>Character Designs</u>
 ===========================
 For University I had to create a series of characters. These characters had to be created to a specified poly limit as well as in a specified theme. When creating these designs it's important that we iterated upon them and tried to select the best one to further improve our designs as we went.
 
@@ -84,20 +84,17 @@ With these vague questions it can help to inform what the character or creature 
 
 With that out of the way. I followed the process as normal and did some thumbnails before moving onto sketching of these ideas which can be seen below.
 
-![]()
 <img class="image-embed" src="https://cdnb.artstation.com/p/assets/images/images/017/221/083/large/james-johnson-dino-mech-sketches.jpg?1555093289">
 
 I looked at various types of dinosaurs and I loved some of the traits of the Triceratops and Brontosaurus as they had an intimidating but cute look. Some of my designs went between cutesy and nice to quite intimidating and scary. With these designs done I chose the one I liked the most and felt would fit the limitations again which can be seen in the centre.
 
-![](https://cdnb.artstation.com/p/assets/images/images/017/221/091/large/james-johnson-dino-mech-iterations.jpg?1555093318)
-<img class="image-embed" src="https://cdna.artstation.com/p/assets/images/images/017/691/942/large/james-johnson-3-closefront-b.jpg?1556982835">
+<img class="image-embed" src="https://cdnb.artstation.com/p/assets/images/images/017/221/091/large/james-johnson-dino-mech-iterations.jpg?1555093318">
 
 After selecting my final one I went through an iteration process. Having already greaty liked the original design but felt it was too intimidating I didn't change a great deal as the feedback I got from my lecturer and friends is that the design overall was good. So for my iterations I focused mainly on tweaking it's overall form to make it more cutesy in a profile view. This design choice was based around the concept of silhouetting. If people found the silhoutte cute or fun then I had a good starting base for the redesign.
 
 Following the arrows my final choice was selected and I proceeded to again create a character sheet of it.
 
-![](https://cdnb.artstation.com/p/assets/images/images/017/221/105/large/james-johnson-dino-mech-stylehseet.jpg?1555093344)
-<img class="image-embed" src="https://cdna.artstation.com/p/assets/images/images/017/691/942/large/james-johnson-3-closefront-b.jpg?1556982835">
+<img class="image-embed" src="https://cdnb.artstation.com/p/assets/images/images/017/221/105/large/james-johnson-dino-mech-stylehseet.jpg?1555093344">
 
 The character sheet of this one a lot like the previous one. I like the layout I came up with and so used it again for consistency. A live preview of the model can also be found below.
 

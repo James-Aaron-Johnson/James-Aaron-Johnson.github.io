@@ -1,11 +1,11 @@
 ---
-name: The Curious Case of the Cabbage - Oblivion Mod
+name: Oblivion Mod - The Curious Case of the Cabbage
 tools: [Modding, Level Design, Dialogue Design, Quest Design]
 image: https://chi-time.github.io/assets/images/oblivion-mod-project.jpg 
 description: A multiple ending quest mod for Elder Scrolls IV Oblivion with custom characters and voice acting.
 ---
 
-The Curious Case of the Cabbage - Oblivion Mod
+<u>The Curious Case of the Cabbage</u>
 ==============================================
 
 The Curious Case of the Cabbage is an Oblivion mod made over the course of several weeks for a University unit in which we focused on and made use of the Waterfall development methodology.

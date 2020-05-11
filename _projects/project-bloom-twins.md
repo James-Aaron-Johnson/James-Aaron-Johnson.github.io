@@ -5,7 +5,7 @@ image: https://img.itch.zone/aW1nLzIwMzk4NjgucG5n/347x500/ysjrLr.png
 description: An RPGMaker game demo for a small University team unit project.
 ---
 
-Bloom Twins - RPGMaker Demo
+<u>Bloom Twins - RPGMaker Demo</u>
 ===========================
 
 Bloom Twins is a small RPGMaker game demo made over the course of several weeks for a University Unit in which we focused on and made use of the Agile methodology.

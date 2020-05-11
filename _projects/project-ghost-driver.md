@@ -1,11 +1,11 @@
 ---
-name: Ghost Driver
+name: Ghost Driver - Game Demo
 tools: [Unity, Games Design, Art, Programming, Producer, Team Lead]
 image: https://img.itch.zone/aW1nLzI5MjA2MjIucG5n/315x250%23c/gASco5.png
-description: A fully developed small demo of a game!
+description: A developed demo of a game.
 ---
 
-Ghost Driver
+<u>Ghost Driver</u>
 ==============================
 
 ## A fully developed small demo of a game
@@ -16,10 +16,11 @@ For this game I had the task of being the main implementer of the artwork and sc
 
 Check out the game below:
 
-<iframe class="center" frameborder="0" src="https://itch.io/embed/557159?bg_color=353535&amp;fg_color=f9f9f9&amp;link_color=b8fdfe&amp;border_color=434343" width="552" height="167"><a href="https://chi-time.itch.io/ghost-driver-demo">Ghost Driver Demo by James Johnson, Jack Hill, Matthew Pendleton</a></iframe>
+<div class="itch-embeds">
+<iframe frameborder="0" src="https://itch.io/embed/557159?border_width=0&amp;bg_color=222222&amp;fg_color=eeeeee&amp;link_color=aefef6&amp;border_color=363636" width="550" height="165"><a href="https://james-aaron-johnson.itch.io/ghost-driver-demo">Ghost Driver Demo by JJ, OrganicJuiceMan, Pennma</a></iframe>
+</div>
 
 A link to the repository of the work I did is here:
-
 <p class="text-center">
-{% include button.html link="https://github.com/Chi-Time/Ghost_Driver_CGP603" text="Ghost Driver Repo" %}
+<a href="https://github.com/Chi-Time/Ghost_Driver_CGP603" class="button" target="_blank">Ghost Driver Repo</a>
 </p>
