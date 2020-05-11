@@ -52,7 +52,7 @@ If you want to check out any of my other work or contact me elsewhere, here's th
 </div>
 
 <div class="row">
-{% include skills.html title="Design Skills" source=site.data.main-skills %}
+{% include skills.html title="Practical Skills" source=site.data.main-skills %}
 {% include skills.html title="Software Skills" source=site.data.software-skills %}
 </div>
 
