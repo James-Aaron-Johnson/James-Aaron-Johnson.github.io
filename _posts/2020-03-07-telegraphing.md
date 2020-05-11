@@ -27,12 +27,14 @@ Hopefully now it's a lot more clear is or isn't hittable. I plan to improve on t
 
 ---
 
+<div class="hi">
 <details>
      <summary> Click to see <b>Bibliography</b> </summary> <br>
 
      <ul>
           <li>
-               Adams, E., 2010. <em>Fundamentals Of Game Design</em> 2nd ed. [online] Berkeley, California: New Riders. Available at: <a href="https://books.google.co.uk/books?id=-BCrex2U1XMC&pg=PA370&lpg=PA370&dq=telegraphing+in+games+design&source=bl&ots=DhEsU7kOLg&sig=ACfU3U3eess4atDZjYAeITX7jcGbWqsJbQ&hl=en&sa=X&ved=2ahUKEwjFj7zL6avpAhXOUMAKHX96A9I4ChDoATACegQIBhAB#v=onepage&q=telegraph&f=false"> https://books.google.co.uk/books?id=-BCrex2U1XMC&pg=PA370&lpg=PA370&dq=telegraphing+in+games+design&source=bl&ots=DhEsU7kOLg&sig=ACfU3U3eess4atDZjYAeITX7jcGbWqsJbQ&hl=en&sa=X&ved=2ahUKEwjFj7zL6avpAhXOUMAKHX96A9I4ChDoATACegQIBhAB#v=onepage&q=telegraph&f=false </a> [Accessed 11 May 2020].
+               Adams, E., 2010. <em>Fundamentals Of Game Design</em> 2nd ed. [online] Berkeley, California: New Riders. Available at: <a href="https://books.google.co.uk/books?id=-BCrex2U1XMC&pg=PA370&lpg=PA370&dq=telegraphing+in+games+design&source=bl&ots=DhEsU7kOLg&sig=ACfU3U3eess4atDZjYAeITX7jcGbWqsJbQ&hl=en&sa=X&<br>ved=2ahUKEwjFj7zL6avpAhXOUMAKHX96A9I4ChDoATACegQIBhAB#v=onepage&q=telegraph&f=false"> https://books.google.co.uk/books?id=-BCrex2U1XMC&pg=PA370&lpg=PA370&dq=telegraphing+in+games+design&source=bl&ots=DhEsU7kOLg&sig=ACfU3U3eess4atDZjYAeITX7jcGbWqsJbQ&hl=en&sa=X&ved=2ahUKEwjFj7zL6avpAhXOUMAKHX96A9I4ChDoATACegQIBhAB#v=onepage&q=telegraph&f=false 
+               </a> [Accessed 11 May 2020].
           </li>
           <li>
                Fullerton, T. and Zimmerman, E., 2014. <em>Game Design Workshop.</em> [online] Boca Raton: CRC Press / Taylor & Francis. Available at: <a href="https://books.google.co.uk/books?id=GELLBQAAQBAJ&pg=PA316&lpg=PA316&dq=Telegraphing+games+design&source=bl&ots=4xNK5j6JHc&sig=ACfU3U09bJmJo-aac0pZRIGKn0EjqGEB5w&hl=en&sa=X&ved=2ahUKEwiK4YT35avpAhXCgVwKHZxzBdM4ChDoATACegQIBxAB#v=onepage&q=Telegraphing%20games%20design&f=false"> https://books.google.co.uk/books?id=GELLBQAAQBAJ&pg=PA316&lpg=PA316&dq=Telegraphing+games+design&source=bl&ots=4xNK5j6JHc&sig=ACfU3U09bJmJo-aac0pZRIGKn0EjqGEB5w&hl=en&sa=X&ved=2ahUKEwiK4YT35avpAhXCgVwKHZxzBdM4ChDoATACegQIBxAB#v=onepage&q=Telegraphing%20games%20design&f=false </a> [Accessed 11 May 2020].
@@ -42,3 +44,4 @@ Hopefully now it's a lot more clear is or isn't hittable. I plan to improve on t
           </li>
      </ul>
 </details>
+</div>
