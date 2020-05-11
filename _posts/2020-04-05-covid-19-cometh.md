@@ -33,22 +33,24 @@ When looking at this project now with these preparations in place. I can at leas
 
 Stay safe out there, until next time!
 
-<div class="social-links">
+<div class="footnote">
 <small>[1]</small> <sub>The Iron Triangle <em>or Triple Constraint</em> is the commonly referred to name of the Project Management Triangle. A commonly used figurative construct utilised within project management. </sub>
 </div>
+
+---
 
 <details>
      <summary> Click to see <b>Bibliography</b> </summary> <br>
 
      <ul>
           <li>
-               Green, P., 2013. <em>Splitting Stories Into Small, Vertical Slices.</em> [online] Agile @ Adobe. Available at: <a href="https://blogs.adobe.com/agile/2013/09/27/splitting-stories-into-small-vertical-slices"> https://blogs.adobe.com/agile/2013/09/27/splitting-stories-into-small-vertical-slices </a> [Accessed 11 May 2020].
+               Atkinson, R., 1999. Project management: cost, time and quality, two best guesses and a phenomenon, its time to accept other success criteria.  <em>International Journal of Project Management,</em> [online] 17(6), pp.337-342. Available at: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0263786398000696?via%3Dihub"> https://www.sciencedirect.com/science/article/abs/pii/S0263786398000696?via%3Dihub </a> [Accessed 11 May 2020].
           </li>
           <li>
-               Gilbert, R., 2011. <em>. The Vertical Slice.</em> [online] Grumpy Gamer. Available at: <a href="https://grumpygamer.com/vertical_slice"> https://grumpygamer.com/vertical_slice </a> [Accessed 11 May 2020].
+               Taylor, C., 2015.  <em>Managing Scope And Crunch: Lessons- Gamecareerguide.Com.</em> [online] Gamecareerguide.com. Available at: <a href="https://www.gamecareerguide.com/features/1443/managing_scope_and_crunch_lessons_from_a_small_student_team.php?page=1"> https://www.gamecareerguide.com/features/1443/managing_scope_and_crunch_lessons_from_a_small_student_team.php?page=1 </a> [Accessed 11 May 2020].
           </li>
           <li>
-               Matthews, D., 2015. <em>Vertical Slice - Hellblade.</em> [online] Hellblade. Available at: <a href="https://www.hellblade.com/vertical-slice"> https://www.hellblade.com/vertical-slice </a> [Accessed 11 May 2020].
+               Van Wyngaard, C., Pretorius, J. and Pretorius, L., 2012. Theory of the triple constraint - A conceptual review. <em>2012 IEEE International Conference on Industrial Engineering and Engineering Management,</em>  [online] Available at: <a href="https://www.academia.edu/8294762/Theory_of_the_Triple_Constraint_a_Conceptual_Review"> https://www.academia.edu/8294762/Theory_of_the_Triple_Constraint_a_Conceptual_Review </a> [Accessed 11 May 2020].
           </li>
      </ul>
 </details>
