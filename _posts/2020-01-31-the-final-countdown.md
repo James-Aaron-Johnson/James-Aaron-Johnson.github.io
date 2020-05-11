@@ -2,7 +2,7 @@
 title: The Final Countdown
 tags: [Games Design, Personal, Final Project, SHMUP]
 style: fill
-color: danger
+color: #1a1
 description: 
 ---
 
