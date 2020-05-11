@@ -9,8 +9,6 @@ repository: James-Aaron-Johnson/James-Aaron-Johnson.github.io
 
 # Build settings
 markdown: kramdown
-kramdown:
-  parse_block_html: true
 # plugins:
 # - jekyll-feed
 
