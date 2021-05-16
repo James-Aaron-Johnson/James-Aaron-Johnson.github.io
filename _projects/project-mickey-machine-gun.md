@@ -5,8 +5,19 @@ image: https://james-aaron-johnson.github.io/assets/images/mickey-machine-gun/pr
 description: A Pitch and Design Document for a small arena shooter/puzzler. 
 ---
 
-<iframe src="https://james-aaron-johnson.github.io/assets/files/mickey-machine-gun/Micro Design Document.pdf" width="100%" height="600px" />
+name: Mickey Machine Gun
+tools: [Game Design, Documentation, Briefing]
+image: https://james-aaron-johnson.github.io/assets/images/mickey-machine-gun/project-cover.jpg
+description: A Pitch and Design Document for a small arena shooter/puzzler. 
 
+<div class="iframe-container"><iframe loading="lazy" src="https://james-aaron-johnson.github.io/assets/files/mickey-machine-gun/Micro Design Document.pdf"></iframe></div>
+
+
+
+name: Mickey Machine Gun
+tools: [Game Design, Documentation, Briefing]
+image: https://james-aaron-johnson.github.io/assets/images/mickey-machine-gun/project-cover.jpg
+description: A Pitch and Design Document for a small arena shooter/puzzler. 
 
 
 <p class="text-center">
