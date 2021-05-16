@@ -1,7 +1,7 @@
 ---
 name: Subway Level Design
 tools: [Level Design, Environment Design, Prototyping]
-image: https://chi-time.github.io/assets/images/subway-level-design-project.png
+image: https://james-aaron-johnson.github.io/assets/images/subway-level-design-project.png
 description: A single-player level, designed and prototyped for a 3rd person shooter experience in mind. Complete with enemy placement and clutter.
 ---
 
