@@ -7,10 +7,9 @@ description: A developed demo of a game.
 
 <u>Ghost Driver</u>
 ==============================
+<br>
 
-## A fully developed small demo of a game
-
-A small game demo in which I was the primary developer of the game's systems and art style as well as serving as producer and narrative/mechanic design. I helped design the UI menu's along with the game's mode splitting from a first person exploration to puzzle game for each sub-area.
+A small game demo in which I was the primary developer of the game's systems and art style as well as serving as producer and narrative/mechanic design. I helped design the UI menu's along with the game's mode splitting from a first-person exploration to puzzle game for each sub-area.
 
 For this game I had the task of being the main implementer of the artwork and scripting. But I also helped my team design the game with my main areas being that of story and narrative design along with the UI designs.
 

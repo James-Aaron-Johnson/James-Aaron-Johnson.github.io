@@ -1,13 +1,13 @@
 ---
-name: Subway Level Design
+name: Sci-Fi Subway - Level Design
 tools: [Level Design, Environment Design, Prototyping]
-image: https://james-aaron-johnson.github.io/assets/images/subway-level-design-project.png
+image: /assets/images/subway-level-design-project.png
 description: A single-player level, designed and prototyped for a 3rd person shooter experience in mind. Complete with enemy placement and clutter.
 ---
 
-
-Subway Level Design
-===================
+<u>Sci-Fi Subway - Level Design</u>
+===========================
+<br>
 
 A prototype level design made in Unity for a digital prototyping unit at Southampton Solent University with the premise of the game being that of a 3rd person cover based shooter.
 

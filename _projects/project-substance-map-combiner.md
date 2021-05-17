@@ -1,5 +1,5 @@
 ---
-name: Substance Map Combiner
+name: Substance Map Combiner - Workflow Tooling
 tools: [C#, Winforms]
 image: https://james-aaron-johnson.github.io/assets/images/Substance-Map-Combiner-Project.jpg
 description: A small application made to combine multiple substance exports into a single texture map.
@@ -8,11 +8,13 @@ description: A small application made to combine multiple substance exports into
 <u>Substance Map Combiner</u>
 =======================
 
+<br>
+
 ![](https://james-aaron-johnson.github.io/assets/images/Substance-Map-Combiner-Overview.gif)
 
-Substance Map Combiner is a small application I made to help speed mine and several other artists I know workflows.
+Substance Map Combiner is a small application I made to help speed mine and several other artists workflows.
 
-It's made in winforms using C#. After prototpying it with my own image manipulation on bitmaps I ended up using a library called ImageProcessor as it was far faster then my own implementation and has little size cost. The application helped me learn a great deal about creating front-end GUI's for users and how to make things simpler and abstract information so that users can access and do what they need without clutter.
+It is made in winforms using C#. After prototyping it with my own image manipulation on bitmaps I ended up using a library called ImageProcessor as it was far faster than my own implementation and has little size cost. The application helped me learn a great deal about creating front-end GUIs for users and how to make things simpler and abstract information so that users can access and do what they need without clutter.
 
 ## What Does it Do?
 ---
