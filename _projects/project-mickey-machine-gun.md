@@ -42,7 +42,7 @@ Having given an overview and concept of the game I then proceeded to craft a Mic
 
 The following embed is the Micro Game Design Document I made for the proposed project as well as a button for pdf download.
 
-<div class="iframe-container">
+<div class="iframe-container-4-3">
     <iframe loading="lazy" frameborder="0" scrolling="no"
         width="640" height="480"
         src="https://drive.google.com/file/d/1kAcb1wLQ6PoI1PmQxhaBMkKVbHqTd-Br/preview" 
