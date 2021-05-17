@@ -69,8 +69,55 @@ a:link {
     color: rgba($color: $primary, $alpha: .75);
 }
 
+// .active {
+//     box-shadow: black;
+//     background: rgb(0,0,0);
+//     background: linear-gradient(180deg, rgba(0,0,0,.50) 0%,rgba(255,255,255,0) 100%);
+// }
+
+// .carousel-indicator {
+//     box-shadow: black;
+//     background: rgb(0,0,0);
+//     background: linear-gradient(180deg, rgba(0,0,0,.50) 0%,rgba(255,255,255,0) 100%);
+// }
+
+.carousel-indicators {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    //background: linear-gradient(0deg, rgba(0,0,0,0.24693627450980393) 0%, rgba(0,212,255,0) 100%);
+    //background: linear-gradient(0deg, rgba(0,0,0,.25) 0%,rgba(255,255,255,0) 100%);
+    background-color: rgba($color: $secondary-dark, $alpha: 0.3);
+    //background: radial-gradient(circle, rgba(0,0,0,.25) 0%, rgba(0,212,255,0) 100%);
+    //background: radial-gradient(circle, rgba(0,0,0,0) 0%, rgba(0,0,0,.1) 50%, rgba(0,212,255,0) 100%);
+}
+
+.carousel-control-prev {
+    margin-top: 1.75%;
+    margin-bottom: 1.75%;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,.25) 0%,rgba(255,255,255,0) 100%);
+    //background: radial-gradient(circle, rgba(0,0,0,0) 0%, rgba(0,0,0,.1) 50%, rgba(0,212,255,0) 100%);
+    //background-color: rgba($color: $secondary-dark, $alpha: 0.5);
+    //background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23fff' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next {
+    margin-top: 1.75%;
+    margin-bottom: 1.75%;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,0) 0%, rgba(0,0,0,.25) 100%);
+        
+    //background-color: rgba($color: $secondary-dark, $alpha: 0.5);
+}
+
+//CONSIDER CHANGING THE VISITED LINK COLOR
+// a:visited {
+//     color: rgba($color: $accent, $alpha: .60);
+// }
+
 a:visited {
-    color: rgba($color: $accent, $alpha: .60);
+    color: rgba($color: $primary, $alpha: .50);
 }
 
 // Footer
@@ -175,6 +222,8 @@ a:visited {
     -o-transform: rotate(-2deg);
     transform: rotate(-2deg);
 }
+
+
 
 .image-embed:hover  {
     //width: 200%;

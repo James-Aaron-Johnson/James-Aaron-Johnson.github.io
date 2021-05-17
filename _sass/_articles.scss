@@ -77,6 +77,10 @@
         text-align: center;
     }
 
+    h3 {
+        text-align: center;
+    }
+    
     hr { 
         background: $accent; 
     }
@@ -99,13 +103,13 @@
             width: 100%;
         }
     }
-
-    a:not(.btn):not([class^="carousel-"]):not([class^="list-"]) {
+    
+    a:not(.btn):not([class^="carousel-"]):not([class^="list-"]):not([class^="image-"]) {
         display: inline-block;
         text-decoration: none;
-
+        
         &:hover { color: $primary; }
-
+        
         &::after {
             content: '';
             display: block;
@@ -196,7 +200,120 @@
     }
 }
 
-.iframe-container {
+
+
+figure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin rgba($color: $primary-dark, $alpha: 1) solid;
+}
+
+
+// .overlay {
+//     position: fixed;
+//     display: none;
+//     width: 100%;
+//     height: 100%;
+//     top: 0;
+//     left: 0;
+//     right: 0;
+//     bottom: 0;
+//     background-color: rgba (0,0,0,0.5);
+//     z-index: 2;
+//     cursor: pointer;
+// }
+
+// .overlay-container {
+//   position: absolute;
+//   top: 50%;
+//   left: 50%;
+//   width: 100%;
+//   height: 100%;
+//   transform: translate(-50%, -50%);
+//   -ms-transform: translate(-50%, -50%);
+//   padding: 12px 24px;
+//   border: none;
+//   cursor: pointer;
+//   text-align: center;
+// }
+
+// .overlay{   
+//     position: absolute;
+//     top: 50%;
+//     left: 50%;
+//     width: 100%;
+//     height: 100%;
+//     transform: translate(-50%, -50%);
+//     -ms-transform: translate(-50%, -50%);
+//     padding: 12px 24px;
+//     text-align: center;
+//     transition: 0.5s ease;
+//     opacity: 0;
+//     background-color: blueviolet;
+// }
+
+// .overlay-container:hover .overlay {
+//     opacity: 1;
+// }
+
+// .overlay-image {
+
+// }
+
+.button-image-container {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+
+.button-image-container img {
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    transition: 0.5s ease;
+}
+
+//https://www.w3schools.com/howto/howto_css_button_on_image.asp#:~:text=How%20TO%20-%20Button%20on%20Image%201%20Add,to%20position%20the%20button.%20...%203%20W3.CSS%20Tutorial
+.button-image-container:hover img {
+    border-radius: 10px;
+    transition: 0.5s ease;
+}
+
+.image-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0);
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+.image-button:hover {
+    background-color: rgba(0,0,0,0.15);
+    border-radius: 10px;
+}
+
+.image-button:hover img {
+    border-radius: 10px;
+    background-color: black;
+}
+
+.iframe-container-4-3 {
     overflow: hidden;
     padding-top: 75%;
     position: relative;
@@ -205,18 +322,38 @@
     box-shadow: 0px 0px 10px #0000004e;
 }
 
-.iframe-container iframe {
+.iframe-container-4-3 iframe {
     border: 0;
     height: 100%;
     left: 0;
     position: absolute;
     top: 0;
     width: 100%;
-    
+}
 
+.iframe-container-16-9 {
+    overflow: hidden;
+    padding-top: 56.25%;
+    position: relative;
+    margin-bottom: 20px;
+    background: url(/assets/images/infinity-loader.svg) center no-repeat;
+    box-shadow: 0px 0px 10px #0000004e;
+}
+
+.iframe-container-16-9 iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
 }
 
 .doc {
+    width: 100%;
+    height: 100%;
+    background: url(/assets/images/infinity-loader.svg) center no-repeat;
+
     iframe {
         top: 0;
         left: 0;
