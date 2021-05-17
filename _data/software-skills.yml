@@ -6,11 +6,7 @@
   percentage:
   color: danger
 
-- name: Godot
-  percentage:
-  color: danger
-
-- name: RPG Maker VX/MV
+- name: Photoshop
   percentage:
   color: danger
 
@@ -19,6 +15,10 @@
   color: danger
 
 - name: Maya
+  percentage:
+  color: danger
+
+- name: Blender
   percentage:
   color: danger
 
@@ -31,10 +31,6 @@
   color: danger
 
 - name: Substance Painter
-  percentage:
-  color: danger
-
-- name: Substance Designer
   percentage:
   color: danger
 
