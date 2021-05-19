@@ -23,11 +23,11 @@ The concept document being the big entry into the game pitch covers a range of a
 
 The following embed is the Concept Design Document I made for the proposed project as well as a button for pdf download.
 
-<div class="iframe-container">
+<div class="pdf-container">
     <iframe loading="lazy" frameborder="0" scrolling="no"
         width="640" height="480"
         src="https://drive.google.com/file/d/14A4rXHgFBKFxSaqJMeKhhZOXGTvd8Kpe/preview"
-        onload="$('.iframe-container').css('background-image', 'none');">
+        onload="$('.pdf-container').css('background-image', 'none');">
     </iframe>
 </div>
 
@@ -42,11 +42,11 @@ Having given an overview and concept of the game I then proceeded to craft a Mic
 
 The following embed is the Micro Game Design Document I made for the proposed project as well as a button for pdf download.
 
-<div class="iframe-container-4-3">
+<div class="pdf-container">
     <iframe loading="lazy" frameborder="0" scrolling="no"
         width="640" height="480"
         src="https://drive.google.com/file/d/1kAcb1wLQ6PoI1PmQxhaBMkKVbHqTd-Br/preview" 
-        onload="$('.iframe-container').css('background-image', 'none');">
+        onload="$('.pdf-container').css('background-image', 'none');">
     </iframe>
 </div>
 
