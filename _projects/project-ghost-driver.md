@@ -34,6 +34,10 @@ A small game demo in which I was the primary developer of the game's systems and
   </video>
 </div>
 
+<div class="footnote">
+<small>First Person Gameplay.</small>
+</div> <br>
+
 For the game, I was the sole implementer of the game's artwork and coding. My team did not feel they had experience enough with code and art to get that heavily involved and so helped out in the form of grey boxes and level designs. For this reason, the game's art style is fairly rudimentary and simple. I tried to focus on something clear but clean where possible and with a stylised goal in mind.
 
 During the project I also helped out my team design-wise by creating the UI designs and writing the game's narrative as well as discussing with them as a team the ideas for the gameplay which we settled upon and iterated together.
@@ -43,6 +47,10 @@ During the project I also helped out my team design-wise by creating the UI desi
     <source src="/assets/files/ghost-driver/ghost-driver-puzzle-example.webm" type="video/webm" />
   </video>
 </div>
+
+<div class="footnote">
+<small>Puzzle Mode Gameplay.</small>
+</div> <br>
 
 Shown in the previous two examples are the game's two "modes". Creating this game proved an interesting challenge design and coding wise as I needed to create two separate and distinct gameplay styles. <br>
 One being a First-Person Exploration game. And the other being a tile-based puzzler. Both my art and code needed to reflect these two separate areas and when it came to the narrative, I had a fun challenge in attempting to tie the two together.

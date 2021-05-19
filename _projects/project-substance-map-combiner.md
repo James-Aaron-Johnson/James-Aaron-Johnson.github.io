@@ -11,6 +11,9 @@ description: A small application made to combine multiple substance exports into
 <br>
 
 ![](https://james-aaron-johnson.github.io/assets/images/Substance-Map-Combiner-Overview.gif)
+<div class="footnote">
+<small>Aplication Usage Showcase.</small>
+</div> <br>
 
 Substance Map Combiner is a small application I made to help speed mine and several other artists workflows.
 
