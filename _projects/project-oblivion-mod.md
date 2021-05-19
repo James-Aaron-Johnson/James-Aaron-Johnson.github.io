@@ -12,9 +12,9 @@ description: A multiple ending quest mod for Elder Scrolls IV Oblivion with cust
 The Curious Case of the Cabbage is an Oblivion mod made over the course of several weeks for a University unit in which we focused on and made use of the Waterfall development methodology.
 
 {% capture carousel_images %}
-http://127.0.0.1:4000//assets/images/ccc/screenshot-1.png
-http://127.0.0.1:4000//assets/images/ccc/screenshot-2.png
-http://127.0.0.1:4000//assets/images/ccc/screenshot-3.png
+/assets/images/ccc/screenshot-1.jpg
+/assets/images/ccc/screenshot-2.jpg
+/assets/images/ccc/screenshot-3.jpg
 {% endcapture %}
 
 {% include carousel.html %}
