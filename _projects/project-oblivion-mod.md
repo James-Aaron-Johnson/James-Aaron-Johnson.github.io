@@ -6,10 +6,19 @@ description: A multiple ending quest mod for Elder Scrolls IV Oblivion with cust
 ---
 
 <u>The Curious Case of the Cabbage</u>
-==============================================
+=======================================
 <br>
 
 The Curious Case of the Cabbage is an Oblivion mod made over the course of several weeks for a University unit in which we focused on and made use of the Waterfall development methodology.
+
+{% capture carousel_images %}
+http://127.0.0.1:4000//assets/images/ccc/screenshot-1.png
+http://127.0.0.1:4000//assets/images/ccc/screenshot-2.png
+http://127.0.0.1:4000//assets/images/ccc/screenshot-3.png
+{% endcapture %}
+
+{% include carousel.html %}
+
 For the project, my team and I decided on making up a small questline which would allow for multiple ending choices from the player at any point and provide dialogue options and quest endings based on the player's actions of how they chose to end it.
 
 The repo of my development contribution can be found here: [Oblivion Mod Repo](https://github.com/Chi-Time/DAC515-Oblivion-Mod/tree/dev) 
