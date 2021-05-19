@@ -26,8 +26,8 @@ With the idea down. I iterated on my level design. I worked through roughly 30 o
 My criteria for design and selection were designs that offered variance to the player for them to express themselves and feel less linear. A problem with 3rd-person cover shooters is how often they can leave a very linear feel in the players gameplay, so I felt it important to offer the player a clear, but optional route with a scalable challenge as well, with one path being harder than the other. I also tried to focus on a design that was manageable in scope and look. Having iterated, I came upon what is my final design below.
 
 <figure>
-    <a class="image-link" href="http://127.0.0.1:4000/assets/images/subway-level/level-layout.png">
-        <img src="http://127.0.0.1:4000/assets/images/subway-level/level-layout.png" alt="level layout image" title="Level Layout">
+    <a class="image-link" href="/assets/images/subway-level/level-layout.png">
+        <img src="/assets/images/subway-level/level-layout.png" alt="level layout image" title="Level Layout">
     </a>
     <figcaption text-align="center">Level Layout (Click image to open.)</figcaption>
 </figure>
@@ -38,8 +38,8 @@ My criteria for design and selection were designs that offered variance to the p
 With my level design down, I progressed onto creating a level flowchart to help showcase in a simple form, the level's gameplay elements and matchups. The flowchart shown below details each room the player will move through from start to finish as well as the enemy AI types they will encounter in each and any pickups that may be in each room. This helps to distil the essence and flow of the player through the level.
 
 <figure>
-    <a class="image-link" href="http://127.0.0.1:4000/assets/images/subway-level/level-graph.png">
-        <img src="http://127.0.0.1:4000/assets/images/subway-level/level-graph.png" alt="level graph image" title="Level Graph">
+    <a class="image-link" href="/assets/images/subway-level/level-graph.png">
+        <img src="/assets/images/subway-level/level-graph.png" alt="level graph image" title="Level Graph">
     </a>
     <figcaption text-align="center">Level Graph (Click image to open.)</figcaption>
 </figure>
@@ -52,14 +52,14 @@ With the level design and flowchart down. I had to create a storyboard to show t
 The storyboard is not a final reflection and only serves to help think through what various scenes the player might see and how I want to direct them with the level's objects and design. It helped me a great deal before I went into grey boxing as it helped inform me how various segments might look and what objects required prominence or changing in position. Embedded below is a carousel of the level's storyboard.
 
 {% capture carousel_images %}
-http://127.0.0.1:4000/assets/images/subway-level/page-1.jpg
-http://127.0.0.1:4000/assets/images/subway-level/page-2.jpg
-http://127.0.0.1:4000/assets/images/subway-level/page-3.jpg
-http://127.0.0.1:4000/assets/images/subway-level/page-4.jpg
-http://127.0.0.1:4000/assets/images/subway-level/page-5.jpg
-http://127.0.0.1:4000/assets/images/subway-level/page-6.jpg
-http://127.0.0.1:4000/assets/images/subway-level/page-7.jpg
-http://127.0.0.1:4000/assets/images/subway-level/page-8.jpg
+/assets/images/subway-level/page-1.jpg
+/assets/images/subway-level/page-2.jpg
+/assets/images/subway-level/page-3.jpg
+/assets/images/subway-level/page-4.jpg
+/assets/images/subway-level/page-5.jpg
+/assets/images/subway-level/page-6.jpg
+/assets/images/subway-level/page-7.jpg
+/assets/images/subway-level/page-8.jpg
 {% endcapture %}
 
 {% include carousel.html %}
